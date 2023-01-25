@@ -23,6 +23,7 @@ main{
     color: #0A3871;
     margin-top: 80px;
     text-transform: lowercase;
+    max-height: 200px;
 }
 ::placeholder{color: #0A3871;}
  .text_area:focus{
@@ -43,6 +44,7 @@ main{
     margin-left: 98px;
     margin-top: 20px;
     padding-left: 20px;
+
     position: fixed;
 }
 
@@ -94,7 +96,7 @@ main{
     color: #0A3871;
     cursor: pointer;
     height: 67px;
-    margin-left: 108px;
+    margin-left: 125px;
     margin-top: 402px;
     position: absolute;
     width: 336px;
